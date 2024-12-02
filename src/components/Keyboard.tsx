@@ -10,7 +10,7 @@ export default function Keyboard() {
   return (
     <div className="keyboard-container">
       {KEYS.map((key) => (
-        <button key={key} className="keyboard-key">
+        <button key={key} className="keyboard-btn">
           {key.toUpperCase()}
         </button>
       ))}
