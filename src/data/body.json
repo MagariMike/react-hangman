@@ -1,0 +1,8 @@
+[
+	{"head": "<div className='head'/>"},
+	{"body": "<div className='body'/>"},
+	{"rightArm": "<div className='right-arm'/>"},
+	{"leftArm": "<div className='left-arm'/>"},
+	{"rightLeg": "<div className='body'/>"},
+	{"lefLeg": "<div className='left-leg'/>"}
+]
