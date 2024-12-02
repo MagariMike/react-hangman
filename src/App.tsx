@@ -21,9 +21,8 @@ function App() {
     <HangmanDrawing/>
     <HangmanWord/>
     <div className='keyboard-wrapper'>
-    <Keyboard/>
+      <Keyboard/>
     </div>
-    
     </div>
 
   )
